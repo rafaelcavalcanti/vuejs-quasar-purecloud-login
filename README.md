@@ -1,5 +1,7 @@
 # Combining Vuejs, Quasar Framework and Purecloud SDK (Token Implicit Grant)
 
+![Printscreen of the Home](https://github.com/rafaelcavalcanti/vuejs-quasar-purecloud-login/blob/master/src/assets/screenshot001.jpg)
+
 - VueJS
 - Quasar Framework
 - Genesys Purecloud SDK Authentication
